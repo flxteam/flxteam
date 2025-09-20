@@ -5,8 +5,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://feli.dpdns.org/">
-    <img src="https://feli.qzz.io/favicon.ico" alt="个人主页">
+  <a href="https://feli.dpdns.org/"alt="个人主页">
   </a>&emsp;
   <a href="https://github.com/flxteam">
     <img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg" alt="GitHub">
