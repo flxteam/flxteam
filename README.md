@@ -17,14 +17,36 @@
 </div>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=flxteam&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=flxteam&size_weight=0.5&count_weight=0.5"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=flxteam&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=flxteam&size_weight=0.5&count_weight=0.5"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=flxteam&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flxteam&size_weight=0.5&count_weight=0.5" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=flxteam&stats_format=bytes"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=flxteam&stats_format=bytes"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flxteam&stats_format=bytes" />
+</picture>
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=flxteam&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=flxteam&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=flxteam&show_icons=true&theme=tokyonight" />
 </picture>
 <div style="margin-top: 20px;">
     <details><summary><strong> [点击展开] 赞赏支持 ~</strong></summary>
